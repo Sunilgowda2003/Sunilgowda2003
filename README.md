@@ -15,7 +15,7 @@ I'm a Java Full Stack Developer<br>Looking for Entry level jobs
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&theme=tokyonight&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=transperant)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunilgowda2003&icon=1&color=0)](https://visitcount.itsvg.in)
