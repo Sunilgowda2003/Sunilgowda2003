@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm a Java FullStack Developer<br>Looking for Entry level jobs
+
+I am a motivated Java Full Stack Developer with a strong passion for building scalable and user-friendly web applications.  
+I enjoy solving real-world problems, writing clean and efficient code, and continuously learning new technologies.
+
+💻 Skilled in Java, Spring Boot, HTML, CSS, JavaScript, and MySQL  
+🚀 Currently improving my Data Structures & Algorithms and backend development skills  
+📂 Actively working on projects to strengthen practical knowledge  
+💼 Open to entry-level opportunities where I can learn, grow, and contribute to impactful solutions  
+
+📫 Reach me at: suni84643@gmail.com
 
 
 ## 🌐 Socials:
