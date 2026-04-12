@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Java Full Stack Developer<br>Looking for Entry level jobs
+I'm a Java FullStack Developer<br>Looking for Entry level jobs
 
 
 ## 🌐 Socials:
