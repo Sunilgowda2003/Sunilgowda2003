@@ -1,15 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile%20Views&color=0e75b6)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile%20Views&color=0e75b6)
-
-![](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
-
-![](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
-
-![](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Visitors&color=0e75b6&style=flat-square)
-
-![](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile+Views&color=blueviolet&style=for-the-badge)
-
 # 💫 About Me:
 
 I am a motivated Java Full Stack Developer with a strong passion for building scalable and user-friendly web applications.  
