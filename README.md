@@ -1,6 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile%20Views&color=0e75b6)
 
-![](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 # 💫 About Me:
 
