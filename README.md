@@ -34,4 +34,7 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunilgowda2003&icon=1&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Sunilgowda2003/Sunilgowda2003/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
