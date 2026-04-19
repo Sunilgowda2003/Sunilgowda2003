@@ -36,7 +36,7 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 ## 📊 GitHub Activity Radar
 
-![GitHub Radar](https://quickchart.io/chart?width=500&height=300&c={type:'radar',data:{labels:['Code review','Issues','Pull requests','Commits'],datasets:[{data:[20,1,8,91],borderColor:'#00ff99',backgroundColor:'rgba(0,255,150,0.12)',pointBackgroundColor:'#00ff99'}]},options:{plugins:{legend:{display:false}},scales:{r:{min:0,max:100,ticks:{display:false},grid:{display:false},angleLines:{color:'#00ff99'},pointLabels:{color:'white'}}}}})
+![GitHub Radar](https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Code%20review%27%2C%27Issues%27%2C%27Pull%20requests%27%2C%27Commits%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B20%2C1%2C8%2C91%5D%2CborderColor%3A%27%2300ff99%27%2CbackgroundColor%3A%27rgba(0%2C255%2C150%2C0.12)%27%2CpointBackgroundColor%3A%27%2300ff99%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bmin%3A0%2Cmax%3A100%2Cticks%3A%7Bdisplay%3Afalse%7D%2Cgrid%3A%7Bdisplay%3Afalse%7D%2CangleLines%3A%7Bcolor%3A%27%2300ff99%27%7D%2CpointLabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%7D%7D)
 
 ## 🐍 Contribution Snake
 
