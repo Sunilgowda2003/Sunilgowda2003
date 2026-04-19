@@ -34,6 +34,31 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunilgowda2003&icon=1&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Activity Radar
+
+### 🟢 Style 1 — Neon Green (Minimal)
+
+![Radar](https://quickchart.io/chart?width=500\&height=300\&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27CodeReview%27%2C%27Issues%27%2C%27PRs%27%2C%27Commits%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27%27%2Cdata%3A%5B20%2C1%2C8%2C91%5D%2CborderColor%3A%27%2300ff99%27%2CbackgroundColor%3A%27rgba\(0%2C255%2C150%2C0.15\)%27%2CpointBackgroundColor%3A%27%2300ff99%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bmin%3A0%2Cmax%3A100%2Cticks%3A%7Bdisplay%3Afalse%7D%2Cgrid%3A%7Bdisplay%3Afalse%7D%2CangleLines%3A%7Bcolor%3A%27%2300ff99%27%7D%2CpointLabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%7D%7D)
+
+---
+
+### 💎 Style 2 — Tokyonight Theme
+
+![Radar](https://quickchart.io/chart?width=500\&height=300\&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27CodeReview%27%2C%27Issues%27%2C%27PRs%27%2C%27Commits%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B20%2C1%2C8%2C91%5D%2CborderColor%3A%27%237aa2f7%27%2CbackgroundColor%3A%27rgba\(122%2C162%2C247%2C0.2\)%27%2CpointBackgroundColor%3A%27%237aa2f7%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bmin%3A0%2Cmax%3A100%2Cticks%3A%7Bdisplay%3Afalse%7D%2Cgrid%3A%7Bcolor%3A%27rgba\(122%2C162%2C247%2C0.2\)%27%7D%2CangleLines%3A%7Bcolor%3A%27%237aa2f7%27%7D%2CpointLabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%7D%7D)
+
+---
+
+### 🚀 Style 3 — Filled Bold Radar
+
+![Radar](https://quickchart.io/chart?width=500\&height=300\&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Commits%27%2C%27PRs%27%2C%27Issues%27%2C%27Reviews%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B91%2C8%2C1%2C20%5D%2CborderColor%3A%27%23ff6b6b%27%2CbackgroundColor%3A%27rgba\(255%2C107%2C107%2C0.4\)%27%2CpointBackgroundColor%3A%27%23ff6b6b%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bmin%3A0%2Cmax%3A100%2Cgrid%3A%7Bcolor%3A%27rgba\(255%2C107%2C107%2C0.2\)%27%7D%2CangleLines%3A%7Bcolor%3A%27%23ff6b6b%27%7D%2CpointLabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%7D%7D)
+
+---
+
+### ⚡ Style 4 — Multi-Stats (Current vs Goal)
+
+![Radar](https://quickchart.io/chart?width=500\&height=300\&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Commits%27%2C%27PRs%27%2C%27Issues%27%2C%27Reviews%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Current%27%2Cdata%3A%5B91%2C8%2C1%2C20%5D%2CborderColor%3A%27%2300ff99%27%2CbackgroundColor%3A%27rgba\(0%2C255%2C150%2C0.15\)%27%7D%2C%7Blabel%3A%27Goal%27%2Cdata%3A%5B100%2C30%2C10%2C50%5D%2CborderColor%3A%27%23ffaa00%27%2CbackgroundColor%3A%27rgba\(255%2C170%2C0%2C0.2\)%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Atrue%2Clabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%2Cscales%3A%7Br%3A%7Bmin%3A0%2Cmax%3A100%2CpointLabels%3A%7Bcolor%3A%27white%27%7D%7D%7D%7D%7D)
+
+
 
 ## 🐍 Contribution Snake
 
