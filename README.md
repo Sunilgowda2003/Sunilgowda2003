@@ -34,6 +34,10 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunilgowda2003&icon=1&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Activity Radar
+
+![GitHub Radar](https://quickchart.io/chart?width=500&height=300&c={type:'radar',data:{labels:['Code review','Issues','Pull requests','Commits'],datasets:[{data:[20,1,8,91],borderColor:'#00ff99',backgroundColor:'rgba(0,255,150,0.12)',pointBackgroundColor:'#00ff99'}]},options:{plugins:{legend:{display:false}},scales:{r:{min:0,max:100,ticks:{display:false},grid:{display:false},angleLines:{color:'#00ff99'},pointLabels:{color:'white'}}}}})
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Sunilgowda2003/Sunilgowda2003/blob/output/github-contribution-grid-snake.svg)
