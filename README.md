@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 I am a motivated Java Full Stack Developer with a strong passion for building scalable and user-friendly web applications.    
-I enjoy solving real-world problems, writing clean and efficient code, and continuously learning new technologies.  
+I enjoy solving real-world problems, writing clean and efficient code, and continuously learning new technologies. 
 
 💻 Skilled in Java, Spring Boot, HTML, CSS, JavaScript, and MySQL  
 🚀 Currently improving my Data Structures & Algorithms and backend development skills 
