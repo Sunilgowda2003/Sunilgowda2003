@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sunil !
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile%20Views&color=0e75b6)
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Sunilgowda2003/Sunilgowda2003/main/a_detailed_cyber_tech_themed_digital_illustration.png">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 # 💫 About Me:
 
