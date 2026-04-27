@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sunil !
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile%20Views&color=0e75b6)
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 # 💫 About Me:
 
