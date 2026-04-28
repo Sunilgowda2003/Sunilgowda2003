@@ -2,8 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Sunilgowda2003&label=Profile%20Views&color=0e75b6)  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-
-
 # 💫 About Me:
 
 I am a motivated Java Full Stack Developer with a strong passion for building scalable and user-friendly web applications.
