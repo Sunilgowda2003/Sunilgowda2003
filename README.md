@@ -25,7 +25,7 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 </td>
 
-<td width="40%">
+<td width="50%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
