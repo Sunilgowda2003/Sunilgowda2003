@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 # 💫 About Me:
 
 I am a motivated Java Full Stack Developer with a strong passion for building scalable and user-friendly web applications.
