@@ -78,11 +78,10 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### ☁️ Cloud & Other Skills
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=false)
