@@ -88,7 +88,7 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&theme=tokyonight&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
