@@ -7,6 +7,7 @@
 <table>
 <tr>
 <td width="60%">
+  
 # 💫 About Me:
 
 I’m a **Java Full Stack Developer** passionate about building scalable, 
@@ -27,7 +28,6 @@ and continuously learning modern technologies.
 
 💼 **Open to:** Entry-level Java Full Stack Developer / Junior Software Engineer opportunities
 
-📫 **Email:** [suni84643@gmail.com](mailto:suni84643@gmail.com)
 📫 Reach me at: suni84643@gmail.com
 
 
