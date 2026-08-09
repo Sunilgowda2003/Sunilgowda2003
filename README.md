@@ -88,6 +88,9 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 ### 🧰 Other Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=24527A)
+<p>
+<img src="./assets/tech-stack/python.svg" height="45">
+</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
