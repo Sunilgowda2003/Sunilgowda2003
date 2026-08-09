@@ -9,14 +9,25 @@
 <td width="60%">
 # 💫 About Me:
 
-I am a motivated Java Full Stack Developer with a strong passion for building scalable and user-friendly web applications.
-I enjoy solving real-world problems, writing clean and efficient code, and continuously learning new technologies.
+I’m a **Java Full Stack Developer** passionate about building scalable, 
+responsive, and user-friendly web applications.
 
-💻 Skilled in Java, Spring Boot, HTML, CSS, JavaScript, and MySQL  
-🚀 Currently improving my Data Structures & Algorithms and backend development skills
-📂 Actively working on projects to strengthen practical knowledge  
-💼 Open to entry-level opportunities where I can learn, grow, and contribute to impactful solutions
+I enjoy solving real-world problems, writing clean and efficient code, 
+and continuously learning modern technologies.
 
+💻 **Core Skills:** Java, Spring Boot, Spring MVC, Hibernate/JPA, REST APIs, React.js, JavaScript, HTML, CSS, Bootstrap, MySQL
+
+🔐 **Backend & Architecture:** Spring Security, JDBC, Servlets, Microservices
+
+🧠 **Currently Improving:** Data Structures & Algorithms, backend development, and software engineering practices
+
+🚀 **Projects:** Building real-world applications to strengthen my practical development skills
+
+☁️ **Exploring:** Docker, Apache Kafka, Microsoft Azure, and AWS
+
+💼 **Open to:** Entry-level Java Full Stack Developer / Junior Software Engineer opportunities
+
+📫 **Email:** [suni84643@gmail.com](mailto:suni84643@gmail.com)
 📫 Reach me at: suni84643@gmail.com
 
 
