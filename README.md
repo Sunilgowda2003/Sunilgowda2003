@@ -27,6 +27,7 @@ and continuously learning modern technologies.
 ☁️ **Exploring:** Docker, Apache Kafka, Microsoft Azure, and AWS
 
 💼 **Open to:** Entry-level Java Full Stack Developer / Junior Software Engineer opportunities
+
 📫 Reach me at: suni84643@gmail.com
 
 ## 🌐 Socials:
