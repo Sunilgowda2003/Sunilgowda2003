@@ -28,6 +28,7 @@ and continuously learning modern technologies.
 
 💼 **Open to:** Entry-level Java Full Stack Developer / Junior Software Engineer opportunities
 
+
 📫 Reach me at: suni84643@gmail.com
 
 ## 🌐 Socials:
@@ -50,6 +51,7 @@ and continuously learning modern technologies.
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=B85C00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111&labelColor=C9B600)
 ![SQL](https://img.shields.io/badge/SQL-4A90B8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=28617D)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🎨 Frontend Development
 
