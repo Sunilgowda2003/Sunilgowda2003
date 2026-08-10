@@ -27,9 +27,7 @@ and continuously learning modern technologies.
 ☁️ **Exploring:** Docker, Apache Kafka, Microsoft Azure, and AWS
 
 💼 **Open to:** Entry-level Java Full Stack Developer / Junior Software Engineer opportunities
-
 📫 Reach me at: suni84643@gmail.com
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urs_suni_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunil-j-s-7b5435286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suni84643@gmail.com) 
