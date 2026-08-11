@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sunil!;Java+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+
 <h1 align="center">👋 Hi there, I'm Sunil!</h1>
 
 <p align="center">
