@@ -116,6 +116,15 @@ and continuously learning modern technologies.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&theme=tokyonight&hide_border=false&layout=compact)
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&layout=compact&langs_count=8&theme=tokyonight" 
+    alt="Most Used Languages"
+  />
+</p>
+
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
