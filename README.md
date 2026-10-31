@@ -9,10 +9,6 @@
 <p>
 <a href="https://komarev.com/ghpvc/?username=Sunilgowda2003">
 <img src="https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a>
-<a href="https://github.com/Sunilgowda2003?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunilgowda2003?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-</a>
 </p>
 
 </div>
