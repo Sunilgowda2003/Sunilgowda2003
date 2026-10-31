@@ -1,17 +1,21 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Sunil!;Java+Full+Stack+Developer;Welcome+to+my+GitHub+Profile!"
-      alt="Typing SVG"
-    />
-  </a>
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+There!+%F0%9F%91%8B+I'm+Sunil+!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<h3>Java Full Stack Developer | Spring Boot | React.js | MySQL</h3>
+
+<p>
+<a href="https://komarev.com/ghpvc/?username=Sunilgowda2003">
+<img src="https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Sunilgowda2003?tab=followers">
+<img src="https://img.shields.io/github/followers/Sunilgowda2003?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+</a>
 </p>
 
-
-
-<table>
-<tr>
-<td width="80%">
+</div>
   
 # 💫 About Me:
 
@@ -41,11 +45,7 @@ and continuously learning modern technologies.
 
 </td>
 
-<td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-</td>
 </tr>
 </table>
 
