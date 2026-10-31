@@ -112,37 +112,40 @@ I enjoy solving real-world problems, developing backend applications, and contin
 
 ---
 
-## 📊 GitHub Statistics Dashboard
+### 📊 GitHub Statistics Dashboard
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=default" alt="Sunil's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🏆 GitHub Statistics
+
+<a href="https://github.com/Sunilgowda2003">
+<img src="https://github-stats-extended.vercel.app/api?username=Sunilgowda2003&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=default" height="190" alt="GitHub Statistics and Profile Grade" />
 </a>
 
-<br/>
+</td>
+<td width="50%" align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+### 💻 Most Used Languages
+
+<a href="https://github.com/Sunilgowda2003">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sunilgowda2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Most Used Programming Languages" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 🔥 GitHub Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
-
-### 📈 GitHub Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sunilgowda2003&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
----
----
-
-
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Developer Quote"/>
@@ -150,7 +153,6 @@ I enjoy solving real-world problems, developing backend applications, and contin
 </div>
 
 ---
-
 
 
 
