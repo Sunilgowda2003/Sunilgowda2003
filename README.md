@@ -10,9 +10,7 @@
 <a href="https://komarev.com/ghpvc/?username=Sunilgowda2003">
 <img src="https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
-<a href="https://github.com/Sunilgowda2003?tab=followers">
-<img src="https://img.shields.io/github/followers/Sunilgowda2003?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-</a>
+
 </p>
 
 </div>
@@ -120,73 +118,7 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 ---
 
-# 🏆 GitHub Profile Summary
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunilgowda2003&theme=tokyonight" width="100%" alt="Profile Summary"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunilgowda2003&theme=tokyonight" width="32%" alt="Repository Languages"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunilgowda2003&theme=tokyonight" width="32%" alt="Commit Languages"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunilgowda2003&theme=tokyonight" width="32%" alt="GitHub Summary Stats"/>
-
-</div>
-
----
-
-# 📈 GitHub Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunilgowda2003&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-# ⭐ Repository Highlights
-
-<div align="center">
-
-<a href="https://github.com/Sunilgowda2003?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sunilgowda2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 🔀 GitHub Activity Metrics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/Sunilgowda2003?style=for-the-badge&logo=github&label=TOTAL%20STARS" alt="Stars"/>
-
-<img src="https://img.shields.io/github/followers/Sunilgowda2003?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers"/>
-
-<a href="https://github.com/Sunilgowda2003/pulls">
-<img src="https://img.shields.io/badge/Pull%20Requests-View%20My%20PRs-blue?style=for-the-badge&logo=github" alt="Pull Requests"/>
-</a>
-
-<a href="https://github.com/Sunilgowda2003/issues">
-<img src="https://img.shields.io/badge/Issues-View%20My%20Issues-orange?style=for-the-badge&logo=github" alt="Issues"/>
-</a>
-
-</div>
 
 ---
 
