@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="90%">
   
 # 💫 About Me:
 
