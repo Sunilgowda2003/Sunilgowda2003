@@ -1,10 +1,20 @@
- <!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+There!+%F0%9F%91%8B+I'm+Sunil!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I'm+Sunil!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<h3>Java Full Stack Developer | Spring Boot | React.js | MySQL</h3>
+<h2>Java Full Stack Developer</h2>
+
+<h3>Building Scalable, Responsive & User-Friendly Web Applications</h3>
+
+<p align="center">
+   Java  •  Spring Boot  •  JavaScript  •  MySQL  •  REST APIs
+</p>
+
+<p>
+  <i>Passionate about problem-solving, backend development and continuous learning.</i>
+</p>
 
 </div>
 
