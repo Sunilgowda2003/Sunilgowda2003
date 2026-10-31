@@ -11,108 +11,149 @@
 <img src="https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
 
-</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a **Java Full Stack Developer** passionate about building scalable, responsive, and user-friendly web applications.
+I'm **Sunil J S**, a Computer Science and Engineering graduate (2025), focused on Java Full Stack Development and building scalable, responsive, and user-friendly web applications.
 
-I enjoy solving real-world problems, writing clean and efficient code, and continuously learning modern technologies.
+I enjoy solving real-world problems, developing backend applications, and continuously improving my software development skills.
 
-- 💻 **Core Skills:** Java, Spring Boot, Spring MVC, Hibernate/JPA, REST APIs, React.js, JavaScript, HTML, CSS, Bootstrap, MySQL.
-- 🔐 **Backend & Architecture:** Spring Security, JDBC, Servlets, Microservices.
-- 🧠 **Currently Improving:** Data Structures & Algorithms, backend development, and software engineering practices.
-- 🚀 **Projects:** Building real-world applications to strengthen my practical development skills.
-- ☁️ **Exploring:** Docker, Apache Kafka, Microsoft Azure, and AWS.
-- 💼 **Open to:** Entry-level Java Full Stack Developer / Junior Software Engineer opportunities.
+- 💻 **Primary Focus:** Java Full Stack Development.
+- ☕ **Backend Development:** Core Java, Advanced Java, Spring Boot, Spring MVC, Hibernate/JPA and JDBC.
+- 🎨 **Frontend Development:** React.js, JavaScript, HTML5, CSS3 and Bootstrap.
+- 🗄️ **Database:** MySQL, SQL and database management.
+- 🔐 **API Development:** REST APIs and Spring Security.
+- 🏗️ **Architecture:** MVC and Microservices.
+- 💼 **Career Interest:** Entry-level Java Developer / Java Full Stack Developer opportunities.
 
-📫 **Reach me at:** [suni84643@gmail.com](mailto:suni84643@gmail.com)
+📫 **Email:** [suni84643@gmail.com](mailto:suni84643@gmail.com)
 
 ---
 
-## 🌐 Socials
+ ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/sunil-j-s-7b5435286">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
 </a>
 <a href="mailto:suni84643@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
 </a>
 <a href="https://github.com/Sunilgowda2003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+</a>
+<a href="https://suni84643.wixsite.com/creative-portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=B85C00)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111&labelColor=C9B600)
+![SQL](https://img.shields.io/badge/SQL-4A90B8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=28617D)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=A82E12)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D4F80)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111&labelColor=C9B600)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=087F9B)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C)
 
-## ☕ Java & Backend Development
+### ☕ Java & Backend Development
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=3D7620)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=3D7620)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=3D7620)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=3D7620)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=363C40)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=363C40)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=00516A)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=apachetomcat&logoColor=white&labelColor=00516A)
+![REST API](https://img.shields.io/badge/REST%20API-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0076A3)
 
-## 🏗️ Architecture
+### 🏗️ Architecture & Software Engineering
 
-![Microservices](https://img.shields.io/badge/Microservices-FF8A00?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-9B5DE5?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF8A00?style=for-the-badge&logoColor=white&labelColor=C45D00)
+![SDLC](https://img.shields.io/badge/SDLC-9B5DE5?style=for-the-badge&logoColor=white&labelColor=69359A)
 
-## 🗄️ Database
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=285C7A)
 
-## 🛠️ Tools & Development
+### 🛠️ Tools & Development
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=B52D18)
+![GitHub](https://img.shields.io/badge/GitHub-30343B?style=for-the-badge&logo=github&logoColor=white&labelColor=17191C)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=8E1228)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=C94D1C)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111&labelColor=55A91A)
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1267A3)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=005A9E)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-6F4E37?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=463021)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=C46F00)
+
+### 🧰 Other Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=24527A)
 
 ---
 
-# 📊 GitHub Statistics
+
+## 📊 GitHub Statistics Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+**GitHub Statistics**
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" alt="GitHub Stats"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages"/>
+</td>
+<td width="50%" align="center">
+
+*GitHub Contribution Streak*
+
+<img src="https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+*Most Used Programming Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="65%" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+---
+
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Developer Quote"/>
 
 </div>
 
@@ -120,42 +161,49 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 
 
----
 
-# 💭 Developer Quote
+
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Developer Quote"/>
+<img src="https://raw.githubusercontent.com/Sunilgowda2003/Sunilgowda2003/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🎯 Currently Learning
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sunilgowda2003/Sunilgowda2003/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-
-</div>
+- Advanced Java and Spring Boot.
+- Spring Security and JWT Authentication.
+- Microservices Architecture.
+- Docker and Kubernetes.
+- CI/CD and DevOps.
+- Generative AI and AI integration with Java applications.
+- Data Structures and Algorithms.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:suni84643@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sunil-j-s-7b5435286/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sunilgowda2003">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://suni84643.wixsite.com/creative-portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -164,13 +212,13 @@ I enjoy solving real-world problems, writing clean and efficient code, and conti
 
 <div align="center">
 
-### 🚀 Code. Learn. Build. Improve. Repeat.
+### 💡 Code. Learn. Build. Improve. Repeat.
 
-**"Great software is built through continuous learning, consistent practice, and a passion for solving problems."**
+*"Great software is built through continuous learning, consistent practice, and a passion for solving problems."*
 
-⭐ Thanks for visiting my GitHub profile!
+**Thanks for visiting my GitHub profile!** ⭐
 
 </div>
 
-<!-- End of README -->
+<!-- End of Sunil Gowda GitHub Profile README -->
 
