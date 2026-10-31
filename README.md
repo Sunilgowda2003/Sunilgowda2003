@@ -112,40 +112,32 @@ I enjoy solving real-world problems, developing backend applications, and contin
 
 ---
 
-
 ## 📊 GitHub Statistics Dashboard
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=default" alt="Sunil's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</a>
 
-**GitHub Statistics**
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sunilgowda2003&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" alt="GitHub Stats"/>
-
-</td>
-<td width="50%" align="center">
-
-*GitHub Contribution Streak*
-
-<img src="https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-*Most Used Programming Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunilgowda2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="65%" alt="Most Used Languages"/>
-
-</td>
-</tr>
-</table>
+<img width="65%" src="https://streak-stats.demolab.com?user=Sunilgowda2003&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
+
+---
+
+### 📈 GitHub Contribution Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sunilgowda2003&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
 
 ---
 ---
