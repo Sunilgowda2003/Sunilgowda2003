@@ -6,12 +6,6 @@
 
 <h3>Java Full Stack Developer | Spring Boot | React.js | MySQL</h3>
 
-<p>
-<a href="https://komarev.com/ghpvc/?username=Sunilgowda2003">
-<img src="https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-
 </div>
 
 ---
@@ -145,7 +139,16 @@ I enjoy solving real-world problems, developing backend applications, and contin
 
 </div>
 
----
+
+
+<div align="center">
+<a href="https://komarev.com/ghpvc/?username=Sunilgowda2003">
+<img src="https://komarev.com/ghpvc/?username=Sunilgowda2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+</div>
+
+ ---
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Developer Quote"/>
